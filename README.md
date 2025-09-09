@@ -1,2 +1,10 @@
-# ksyuser.github.io
-用来展示个人网页
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的第一个网站</title>
+</head>
+<body>
+    <h1>你好，世界！</h1>
+    <p>这是我的 GitHub Pages 网站！</p>
+</body>
+</html>
